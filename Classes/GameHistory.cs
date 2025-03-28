@@ -1,6 +1,4 @@
-﻿using MathGame.Models;
-
-namespace MathGame.Classes;
+﻿namespace MathGame.Classes;
 public class GameHistory
 {
     private List<Record> History { get; set; }
