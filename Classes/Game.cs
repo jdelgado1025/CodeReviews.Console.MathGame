@@ -1,6 +1,5 @@
 ﻿using MathGame.Models;
 using System.Diagnostics;
-using System.Runtime.CompilerServices;
 
 namespace MathGame.Classes;
 public class Game
